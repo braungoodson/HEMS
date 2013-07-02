@@ -7,3 +7,8 @@ Browser Support
 ====
 
 * Safari 5.1.7
+
+Protocol Support
+====
+
+* Hypertext Transfer Protocol
