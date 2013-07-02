@@ -1,7 +1,7 @@
 HEMS
 ====
 
-A Mimecast-less (a.k.a., mindless) hot e-mail management system for workgroups. For Distributed Security, Virtual Private Networking, and Automatic Virtualzation.
+A mimecast-less (a.k.a., mindless) peer-2-peer hot e-mail management system for workgroups. For distributed security, virtual private networking, and automatic virtualzation.
 
 Browser Support
 ====
