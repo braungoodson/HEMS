@@ -1,7 +1,7 @@
 HEMS
 ====
 
-A Mimecast-less (a.k.a., mindless) hot e-mail management system for workgroups. For Distributed Security, Virtual Private Networking, Automatic Virtualzation, and a three dimensional star-schema called Sless.
+A Mimecast-less (a.k.a., mindless) hot e-mail management system for workgroups. For Distributed Security, Virtual Private Networking, and Automatic Virtualzation.
 
 Browser Support
 ====
@@ -12,3 +12,8 @@ Protocol Support
 ====
 
 * Hypertext Transfer Protocol
+
+Documentation
+====
+
+* A Three dimensional star-schema called Sless.
